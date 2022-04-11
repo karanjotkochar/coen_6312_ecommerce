@@ -1,0 +1,30 @@
+{
+    "products": [
+        {
+            "company_name": "Swatch",
+            "product_name": "Watch",
+            "seller_name": "navdeep",
+            "category": "accessories",
+            "description": "black color analog watch with big dial and leather strap",
+            "price": "150$ CAD",
+            "availability": "in stock",
+            "size": "DESIGN-CODE-1120",
+            "product_id": "SWATCHWATCHNAVDEEPDESIGN-CODE-1120",
+            "rating": [],
+            "discounted_price": "no discount"
+        },
+        {
+            "company_name": "Samsung",
+            "product_name": "LED TV",
+            "seller_name": "navdeep feed store",
+            "category": "electronics",
+            "description": "This is a colorful HD LED Tv with high resolution",
+            "price": "350 $ CAD",
+            "availability": "in stock",
+            "size": "32 inches",
+            "product_id": "SAMSUNGLED TVNAVDEEP FEED STORE32 INCHES",
+            "rating": [],
+            "discounted_price": "no discount"
+        }
+    ]
+}

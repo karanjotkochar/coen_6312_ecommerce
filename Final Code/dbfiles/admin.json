@@ -1,0 +1,9 @@
+{
+    "admin": [
+        {
+            "id": "admin",
+            "password": "admin",
+            "seller_requests": []
+        }
+    ]
+}

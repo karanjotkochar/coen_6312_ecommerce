@@ -1,0 +1,38 @@
+{
+    "sellers": [
+        {
+            "email_id": "singhnavdeep446@gmail.com",
+            "password": "123456",
+            "phone_number": "4389269155",
+            "company_name": "Navdeep",
+            "business_address": "Navdeep",
+            "years_of_experience": "4",
+            "account_number": "4587145",
+            "institution_number": "112",
+            "transit_number": "2541",
+            "products_offered": [
+                "SWATCHWATCHNAVDEEPDESIGN-CODE-1120"
+            ],
+            "orders": [
+                "singhnavdeep447@gmail.com-10/04/2022@04-06-15"
+            ]
+        },
+        {
+            "email_id": "abc@abc.com",
+            "password": "123456",
+            "phone_number": "4389269055",
+            "company_name": "navdeep feed store",
+            "business_address": "1436 rue Mackay",
+            "years_of_experience": "2",
+            "account_number": "4102565",
+            "institution_number": "110",
+            "transit_number": "001",
+            "products_offered": [
+                "SAMSUNGLED TVNAVDEEP FEED STORE32 INCHES"
+            ],
+            "orders": [
+                "singhnavdeep447@gmail.com-10/04/2022@22-06-58"
+            ]
+        }
+    ]
+}

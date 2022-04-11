@@ -1,0 +1,17 @@
+{
+    "buyers": [
+        {
+            "email_id": "singhnavdeep447@gmail.com",
+            "password": "123456",
+            "phone_number": "8742561245",
+            "name": "karan",
+            "address": [
+                "2175 maisonneuve w., montreal",
+                "2000 saint marc, montreal",
+                "1650 avenue linclon, montreal"
+            ],
+            "wishlist": [
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "orders": [
+        {
+            "order_id": "singhnavdeep447@gmail.com-10/04/2022@04-06-15",
+            "products": [
+                "SAMSUNGLED TVNAVDEEP32 INCHES"
+            ],
+            "status": [
+                {
+                    "product": "SAMSUNGLED TVNAVDEEP32 INCHES",
+                    "status": "delivered"
+                }
+            ],
+            "buyer_email": "singhnavdeep447@gmail.com"
+        },
+        {
+            "order_id": "singhnavdeep447@gmail.com-10/04/2022@22-06-58",
+            "products": [
+                "SAMSUNGLED TVNAVDEEP FEED STORE32 INCHES"
+            ],
+            "status": [
+                {
+                    "product": "SAMSUNGLED TVNAVDEEP FEED STORE32 INCHES",
+                    "status": "in processing"
+                }
+            ],
+            "buyer_email": "singhnavdeep447@gmail.com"
+        }
+    ]
+}
